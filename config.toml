@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://wistlyr.github.io/whistler"
 title = "WHISTLER.PAGE"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
