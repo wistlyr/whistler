@@ -1,5 +1,5 @@
 baseURL = "https://example.com"
-title = "WHISTLER PAGE"
+title = "WHISTLER.PAGE"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
 theme = "hugo.386"
@@ -9,13 +9,13 @@ enableEmoji = true
 
 [params]
     # The name to display as main title in the home page
-    mainpagetitle = "WHISTLER PAGE"
+    mainpagetitle = "Whistler Page"
 
     # The subtitle to display under the title in the home page
-    mainpagesubtitle = "HOMEPAGE" 
+    mainpagesubtitle = "Welcome to the personal BIOS of Lumi Lazuli!" 
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "A BIOS for Lumi \"Whistler\" Lazuli."
+    mainpagedesc = "This website acts as a personal blog and diagnostic viewer. Please take a look around."
 
     # The name to display in the copyright section in the footer
     copyrightname = "lumi lazuli"
@@ -26,6 +26,9 @@ enableEmoji = true
     # Show the "built on Hugo" disclaimer
     showhugo = false
 
+    # Show a CRT screen effect. Default is enabled.
+    showcrt = true
+
     # Urls for social networks
     facebook = ""
     twitter = ""
@@ -34,10 +37,10 @@ enableEmoji = true
     gitlab = ""
 
     # Enables or disables the loading animations. false activates them. Default is false.
-    loadfastload = false
+    fastload = true
 
     # Sets the speed for the page loading effect. Default is 1.0.
-    loadspeedfactor = 2.0
+    loadspeedfactor = 1.0
 
     # Enables or disables the second flyby cursor. Default is false.
     loadonepass = false
@@ -49,7 +52,7 @@ enableEmoji = true
     url = ""
 
     # Text to go before copyright information
-    prefix = "Sometimes we all make mistakes."
+    prefix = ""
 
     # Text to go between copyright and hugo disclaimer (if enabled)
     suffix = ""
@@ -58,13 +61,13 @@ enableEmoji = true
   # This displays buttons in the navbar to access your contents
   [[menu.main]]
     identifier = "about" # An unique identifier for the button
-    name = "About"       # A display name for the button
+    name = "ABOUT"       # A display name for the button
     url = "/about/"      # The path to the content. It can lead to a single page (like here)
     weight = 10          # A number to order the buttons in the navbar
 
   [[menu.main]]
     identifier = "posts"
-    name = "All posts"
+    name = "ALL_POSTS"
     url = "/post/"       # The path can lead to a content folder too.
     weight = 20
 
@@ -76,20 +79,20 @@ tag = "tags"
 [privacy]
 
   [privacy.vimeo]
-    disabled = true
+    disabled = false
     simple = true
 
   [privacy.twitter]
-    disabled = true
+    disabled = false
     enableDNT = true
     simple = true
 
   [privacy.instagram]
-    disabled = true
+    disabled = false
     simple = true
 
   [privacy.youtube]
-    disabled = true
+    disabled = false
     privacyEnhanced = true
 
 [services]
@@ -99,4 +102,3 @@ tag = "tags"
 
   [services.twitter]
     disableInlineCSS = true
-	
