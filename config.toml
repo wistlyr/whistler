@@ -9,16 +9,16 @@ enableEmoji = true
 
 [params]
     # The name to display as main title in the home page
-    mainpagetitle = "Whistler Page"
+    mainpagetitle = "Whistler Professional Setup"
 
     # The subtitle to display under the title in the home page
-    mainpagesubtitle = "Welcome to the personal BIOS of Lumi Lazuli!" 
+    mainpagesubtitle = "Setup Notification:" 
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "This website acts as a personal blog and diagnostic viewer. Please take a look around."
+    mainpagedesc = "Setup program has detected that you are about to install an Evaluation version of Systemware(R) Gateway(R) Whistler operating system which contains a time limited expiration for evaluation purposes only."
 
     # The name to display in the copyright section in the footer
-    copyrightname = "lumi lazuli"
+    copyrightname = "wistlyr"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
     copyrighturl = ""
@@ -46,7 +46,7 @@ enableEmoji = true
     loadonepass = false
 
 [params.copyright]
-    name = "lumi lazuli"
+    name = "wistlyr"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
     url = ""
@@ -79,7 +79,7 @@ tag = "tags"
 [privacy]
 
   [privacy.vimeo]
-    disabled = false
+    disabled = true
     simple = true
 
   [privacy.twitter]
@@ -88,7 +88,7 @@ tag = "tags"
     simple = true
 
   [privacy.instagram]
-    disabled = false
+    disabled = true
     simple = true
 
   [privacy.youtube]
