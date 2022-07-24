@@ -25,6 +25,12 @@ Physical memory available to Gateway: 261,684 KB
 
 ## About Whistler
 
-**Hello!**
+**Hello.**
 
-I am wisty (in lowercase)! I write. The rest is a placeholder!
+I am wisty (in lowercase)! I like to write all sorts of things. Pronouns are she/her.
+
+The name is a pun on Windows Whistler. I am not affiliated with Microsoft.
+
+You can commission my writing if you want! I'll put a link here eventually.
+
+I help with [NETeSCAPE](https://netescape.org) too, by the way. Check them out!

@@ -22,7 +22,7 @@ enableEmoji = true
     mainpagesubtitle = "Setup Notification:" 
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "Setup program has detected that you are about to install an Evaluation version of Systemware(R) Gateway(R) Whistler operating system which contains a time limited expiration for evaluation purposes only."
+    mainpagedesc = "Setup program has detected that you are about to install an Evaluation version of Systemware(R) Gateway(R) Whistler operating system which contains a time limited expiration for evaluation purposes only.<br />- To continue, press ENTER.<br />- To quit Setup without installing Gateway Whistler, press F3.<br />ENTER=Continue F3=Quit"
 
     # Show the "built on Hugo" disclaimer
     showhugo = false
