@@ -12,7 +12,7 @@ enableEmoji = true
     opengraph = true
     twittercards = true
     title = "WHISTLER.PAGE"
-    description = "Setup program has detected that you are about to install an Evaluation version of Systemware(R) Gateway(R) Whistler operating system which contains a time limited expiration for evaluation purposes only."
+    description = "Setup is starting Gateway Whistler"
     images = ["setup.png"]
     
     # The name to display as main title in the home page
