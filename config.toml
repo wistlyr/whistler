@@ -8,6 +8,12 @@ ignoreErrors = ["error-missing-instagram-accesstoken"]
 enableEmoji = true
 
 [params]
+    # I fixed OpenGraph :D
+    opengraph = true
+    twittercards = true
+    title = "WHISTLER.PAGE"
+    description = "Setup program has detected that you are about to install an Evaluation version of Systemware(R) Gateway(R) Whistler operating system which contains a time limited expiration for evaluation purposes only."
+    
     # The name to display as main title in the home page
     mainpagetitle = "Whistler Professional Setup"
 
@@ -16,12 +22,6 @@ enableEmoji = true
 
     # The description of your website. It will be displayed in the home page
     mainpagedesc = "Setup program has detected that you are about to install an Evaluation version of Systemware(R) Gateway(R) Whistler operating system which contains a time limited expiration for evaluation purposes only."
-
-    # The name to display in the copyright section in the footer
-    copyrightname = "wistlyr"
-
-    # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    copyrighturl = ""
 
     # Show the "built on Hugo" disclaimer
     showhugo = false

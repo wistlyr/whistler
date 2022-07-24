@@ -2,7 +2,7 @@
 title = "About Gateway"
 description = "Systemware Codename Whistler"
 date = "2001-03-28"
-aliases = ["about-us","about-hugo","contact"]
+aliases = ["wisty","contact"]
 +++
 
 {{< highlight html >}}
@@ -27,3 +27,4 @@ Physical memory available to Gateway: 261,684 KB
 
 **Hello!**
 
+This is a placeholder for now. I'm a writer! Yay!
