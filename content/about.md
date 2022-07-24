@@ -27,4 +27,4 @@ Physical memory available to Gateway: 261,684 KB
 
 **Hello!**
 
-This is a placeholder for now. I'm a writer! Yay!
+I am wisty (in lowercase)! I write. The rest is a placeholder!
