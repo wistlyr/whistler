@@ -33,4 +33,6 @@ The name is a pun on Windows Whistler. I am not affiliated with Microsoft.
 
 You can commission my writing if you want! I'll put a link here eventually.
 
+Discord: `wistlyr#6900`
+
 I help with [NETeSCAPE](https://netescape.org) too, by the way. Check them out!
