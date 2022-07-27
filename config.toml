@@ -73,10 +73,16 @@ enableEmoji = true
     weight = 20
 
   [[menu.main]]
+    identifier = "support "
+    name = "SUPPORT"
+    url = "https://ko-fi.com/wistlyr"       # The path can lead to a content folder too.
+    weight = 30
+
+  [[menu.main]]
     identifier = "nsfw"
     name = "NSFW"
     url = "https://watercolor.whistler.page"       # The path can lead to a content folder too.
-    weight = 30
+    weight = 40
 
 [taxonomies]
 category = "categories"
