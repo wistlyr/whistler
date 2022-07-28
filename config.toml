@@ -81,7 +81,7 @@ enableEmoji = true
   [[menu.main]]
     identifier = "nsfw"
     name = "NSFW"
-    url = "https://watercolor.whistler.page"       # The path can lead to a content folder too.
+    url = "https://whistler.page/watercolor"       # The path can lead to a content folder too.
     weight = 40
 
 [taxonomies]
