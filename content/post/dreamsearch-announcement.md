@@ -1,10 +1,12 @@
 ---
 title: "Dreamsearch Announcement"
+description: "An announcement post for my upcoming project, Dreamsearch. It's a disaster, that's the point."
+categories: ["dreamsearch"]
+tags: ["announcement"]
 date: 2022-07-28T16:17:47-04:00
 draft: false
 ---
 
-An announcement post for my upcoming project, Dreamsearch. It's a disaster, that's the point.
 
 <!--more-->
 
